@@ -1,6 +1,5 @@
 import streamlit as st
 import geopandas as gpd
-import leafmap
 from shapely.geometry import Point, LineString
 
 @st.cache_resource
